@@ -1,2 +1,2 @@
-# hello_world_pyhton
+# hello_world_python
 Trying on my own
